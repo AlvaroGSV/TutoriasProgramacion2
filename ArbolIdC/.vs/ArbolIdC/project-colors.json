@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7ace53a0-688b-4468-bb9a-c3006dde9b2f": {
+      "ProjectGuid": "7ace53a0-688b-4468-bb9a-c3006dde9b2f",
+      "DisplayName": "ArbolIdC",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

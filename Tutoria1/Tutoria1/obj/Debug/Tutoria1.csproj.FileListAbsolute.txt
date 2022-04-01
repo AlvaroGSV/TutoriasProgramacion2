@@ -1,0 +1,8 @@
+C:\Users\alvar\Desktop\GTI\Tutoria1\Tutoria1\bin\Debug\Tutoria1.exe.config
+C:\Users\alvar\Desktop\GTI\Tutoria1\Tutoria1\bin\Debug\Tutoria1.exe
+C:\Users\alvar\Desktop\GTI\Tutoria1\Tutoria1\bin\Debug\Tutoria1.pdb
+C:\Users\alvar\Desktop\GTI\Tutoria1\Tutoria1\obj\Debug\Tutoria1.csproj.AssemblyReference.cache
+C:\Users\alvar\Desktop\GTI\Tutoria1\Tutoria1\obj\Debug\Tutoria1.csproj.SuggestedBindingRedirects.cache
+C:\Users\alvar\Desktop\GTI\Tutoria1\Tutoria1\obj\Debug\Tutoria1.csproj.CoreCompileInputs.cache
+C:\Users\alvar\Desktop\GTI\Tutoria1\Tutoria1\obj\Debug\Tutoria1.exe
+C:\Users\alvar\Desktop\GTI\Tutoria1\Tutoria1\obj\Debug\Tutoria1.pdb

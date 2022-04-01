@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "40e1d0b5-dd58-4d0a-98f1-a8f36682a56c": {
+      "ProjectGuid": "40e1d0b5-dd58-4d0a-98f1-a8f36682a56c",
+      "DisplayName": "Aerolinea",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

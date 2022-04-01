@@ -1,0 +1,8 @@
+C:\Users\alvar\Desktop\GTI\Examen U1 prueba\Examen U1 prueba\bin\Debug\Examen U1 prueba.exe.config
+C:\Users\alvar\Desktop\GTI\Examen U1 prueba\Examen U1 prueba\bin\Debug\Examen U1 prueba.exe
+C:\Users\alvar\Desktop\GTI\Examen U1 prueba\Examen U1 prueba\bin\Debug\Examen U1 prueba.pdb
+C:\Users\alvar\Desktop\GTI\Examen U1 prueba\Examen U1 prueba\obj\Debug\Examen U1 prueba.csproj.AssemblyReference.cache
+C:\Users\alvar\Desktop\GTI\Examen U1 prueba\Examen U1 prueba\obj\Debug\Examen U1 prueba.csproj.SuggestedBindingRedirects.cache
+C:\Users\alvar\Desktop\GTI\Examen U1 prueba\Examen U1 prueba\obj\Debug\Examen U1 prueba.csproj.CoreCompileInputs.cache
+C:\Users\alvar\Desktop\GTI\Examen U1 prueba\Examen U1 prueba\obj\Debug\Examen U1 prueba.exe
+C:\Users\alvar\Desktop\GTI\Examen U1 prueba\Examen U1 prueba\obj\Debug\Examen U1 prueba.pdb

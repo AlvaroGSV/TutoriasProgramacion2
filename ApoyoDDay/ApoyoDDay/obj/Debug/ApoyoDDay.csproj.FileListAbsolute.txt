@@ -1,0 +1,8 @@
+C:\Users\alvar\Desktop\GTI\ApoyoDDay\ApoyoDDay\bin\Debug\ApoyoDDay.exe.config
+C:\Users\alvar\Desktop\GTI\ApoyoDDay\ApoyoDDay\bin\Debug\ApoyoDDay.exe
+C:\Users\alvar\Desktop\GTI\ApoyoDDay\ApoyoDDay\bin\Debug\ApoyoDDay.pdb
+C:\Users\alvar\Desktop\GTI\ApoyoDDay\ApoyoDDay\obj\Debug\ApoyoDDay.csproj.AssemblyReference.cache
+C:\Users\alvar\Desktop\GTI\ApoyoDDay\ApoyoDDay\obj\Debug\ApoyoDDay.csproj.SuggestedBindingRedirects.cache
+C:\Users\alvar\Desktop\GTI\ApoyoDDay\ApoyoDDay\obj\Debug\ApoyoDDay.csproj.CoreCompileInputs.cache
+C:\Users\alvar\Desktop\GTI\ApoyoDDay\ApoyoDDay\obj\Debug\ApoyoDDay.exe
+C:\Users\alvar\Desktop\GTI\ApoyoDDay\ApoyoDDay\obj\Debug\ApoyoDDay.pdb

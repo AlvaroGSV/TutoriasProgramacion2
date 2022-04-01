@@ -1,0 +1,11 @@
+C:\Users\alvar\Desktop\GTI\AerolineaUI\AerolineaUI\bin\Debug\AerolineaUI.exe.config
+C:\Users\alvar\Desktop\GTI\AerolineaUI\AerolineaUI\bin\Debug\AerolineaUI.exe
+C:\Users\alvar\Desktop\GTI\AerolineaUI\AerolineaUI\bin\Debug\AerolineaUI.pdb
+C:\Users\alvar\Desktop\GTI\AerolineaUI\AerolineaUI\obj\Debug\AerolineaUI.csproj.AssemblyReference.cache
+C:\Users\alvar\Desktop\GTI\AerolineaUI\AerolineaUI\obj\Debug\AerolineaUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\alvar\Desktop\GTI\AerolineaUI\AerolineaUI\obj\Debug\AerolineaUI.Form1.resources
+C:\Users\alvar\Desktop\GTI\AerolineaUI\AerolineaUI\obj\Debug\AerolineaUI.Properties.Resources.resources
+C:\Users\alvar\Desktop\GTI\AerolineaUI\AerolineaUI\obj\Debug\AerolineaUI.csproj.GenerateResource.cache
+C:\Users\alvar\Desktop\GTI\AerolineaUI\AerolineaUI\obj\Debug\AerolineaUI.csproj.CoreCompileInputs.cache
+C:\Users\alvar\Desktop\GTI\AerolineaUI\AerolineaUI\obj\Debug\AerolineaUI.exe
+C:\Users\alvar\Desktop\GTI\AerolineaUI\AerolineaUI\obj\Debug\AerolineaUI.pdb

@@ -1,0 +1,8 @@
+C:\Users\alvar\Desktop\GTI\Apoo de tutoria D1\Apoo de tutoria D1\bin\Debug\Apoo de tutoria D1.exe.config
+C:\Users\alvar\Desktop\GTI\Apoo de tutoria D1\Apoo de tutoria D1\bin\Debug\Apoo de tutoria D1.exe
+C:\Users\alvar\Desktop\GTI\Apoo de tutoria D1\Apoo de tutoria D1\bin\Debug\Apoo de tutoria D1.pdb
+C:\Users\alvar\Desktop\GTI\Apoo de tutoria D1\Apoo de tutoria D1\obj\Debug\Apoo de tutoria D1.csproj.AssemblyReference.cache
+C:\Users\alvar\Desktop\GTI\Apoo de tutoria D1\Apoo de tutoria D1\obj\Debug\Apoo de tutoria D1.csproj.SuggestedBindingRedirects.cache
+C:\Users\alvar\Desktop\GTI\Apoo de tutoria D1\Apoo de tutoria D1\obj\Debug\Apoo de tutoria D1.csproj.CoreCompileInputs.cache
+C:\Users\alvar\Desktop\GTI\Apoo de tutoria D1\Apoo de tutoria D1\obj\Debug\Apoo de tutoria D1.exe
+C:\Users\alvar\Desktop\GTI\Apoo de tutoria D1\Apoo de tutoria D1\obj\Debug\Apoo de tutoria D1.pdb

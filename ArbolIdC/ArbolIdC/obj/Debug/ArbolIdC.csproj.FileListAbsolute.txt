@@ -1,0 +1,8 @@
+C:\Users\alvar\Desktop\GTI\ArbolIdC\ArbolIdC\bin\Debug\ArbolIdC.exe.config
+C:\Users\alvar\Desktop\GTI\ArbolIdC\ArbolIdC\bin\Debug\ArbolIdC.exe
+C:\Users\alvar\Desktop\GTI\ArbolIdC\ArbolIdC\bin\Debug\ArbolIdC.pdb
+C:\Users\alvar\Desktop\GTI\ArbolIdC\ArbolIdC\obj\Debug\ArbolIdC.csproj.AssemblyReference.cache
+C:\Users\alvar\Desktop\GTI\ArbolIdC\ArbolIdC\obj\Debug\ArbolIdC.csproj.SuggestedBindingRedirects.cache
+C:\Users\alvar\Desktop\GTI\ArbolIdC\ArbolIdC\obj\Debug\ArbolIdC.csproj.CoreCompileInputs.cache
+C:\Users\alvar\Desktop\GTI\ArbolIdC\ArbolIdC\obj\Debug\ArbolIdC.exe
+C:\Users\alvar\Desktop\GTI\ArbolIdC\ArbolIdC\obj\Debug\ArbolIdC.pdb
